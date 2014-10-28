@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 Brentley Jones. All rights reserved.
 //
 
-@import Foundation;
+//@import Foundation;
 
 /**
  *  A nib-based view will load it's view from a specified nib
